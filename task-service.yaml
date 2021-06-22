@@ -2,8 +2,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/task-service
-    username:
-    passwords:
+    username: postgres
+    passwords: postgres
   jpa:
     properties:
       hibernate:
